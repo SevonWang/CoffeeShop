@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="form_background">#E5E5E5</color>
+    <color name="input_context">#AAAAAA</color>
+    <color name="login_button">#5D1012</color>
+    <color name="login_button_focus">#B01E23</color>
+    <color name="page_backgroud">#FFFFFF</color>
+    <color name="tab_textcolor_checked">#FFFFFF</color>
+    <color name="tab_textcolor_unchecked">#C0C0C0</color>
+    <declare-styleable name="CircleFlowIndicator"><attr format="color" name="activeColor"/><attr format="color" name="inactiveColor"/><attr format="dimension" name="radius"/><attr format="boolean" name="centered"/><attr format="integer" name="fadeOut"/><attr name="inactiveType">
+            <flag name="stroke" value="0"/>
+            <flag name="fill" value="1"/>
+        </attr><attr name="activeType">
+            <flag name="stroke" value="0"/>
+            <flag name="fill" value="1"/>
+        </attr><attr format="dimension" name="circleSeparation"/><attr format="dimension" name="activeRadius"/></declare-styleable>
+    <declare-styleable name="ViewFlow"><attr format="integer" name="sidebuffer"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="app_name">咖啡在线</string>
+    <string name="detail">首页-爱上咖啡，从这里开始</string>
+    <string name="discount_goods">打折产品</string>
+    <string name="forget_password">忘记密码</string>
+    <string name="hint_password">请输入密码</string>
+    <string name="hint_username">请输入用户名</string>
+    <string name="home">首页-咖啡在线</string>
+    <string name="login_register_system">欢迎来到在线咖啡销售系统</string>
+    <string name="new_user">注册新用户</string>
+    <string name="popular_goods">热销产品</string>
+    <string name="rmd_goods">推荐商品</string>
+    <string name="shop">所有店铺</string>
+    <string name="shopAdd">添加店铺信息</string>
+    <string name="shopDetail">咖啡店铺信息</string>
+    <string name="shopUpdate">修改店铺信息</string>
+    <string name="store">店铺</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="main_tab">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:textSize">12dp</item>
+        <item name="android:layout_weight">1.0</item>
+        <item name="android:button">@null</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:paddingTop">2dp</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textColor">@drawable/tab_textcolor_selector</item>
+    </style>
+</resources>

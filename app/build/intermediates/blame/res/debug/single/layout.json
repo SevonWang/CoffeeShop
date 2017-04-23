@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_me_fragment.xml",
+        "source": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\src\\main\\res\\layout\\item_me_fragment.xml"
+    },
+    {
+        "merged": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_fragment.xml",
+        "source": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\src\\main\\res\\layout\\main_fragment.xml"
+    },
+    {
+        "merged": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bottom_me_fragment.xml",
+        "source": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\src\\main\\res\\layout\\bottom_me_fragment.xml"
+    },
+    {
+        "merged": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_fragment.xml",
+        "source": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\src\\main\\res\\layout\\home_fragment.xml"
+    },
+    {
+        "merged": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\build\\intermediates\\res\\merged\\debug\\layout\\update_shop.xml",
+        "source": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\src\\main\\res\\layout\\update_shop.xml"
+    },
+    {
+        "merged": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\build\\intermediates\\res\\merged\\debug\\layout\\header_me_fragment.xml",
+        "source": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\src\\main\\res\\layout\\header_me_fragment.xml"
+    },
+    {
+        "merged": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_fragment.xml",
+        "source": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\src\\main\\res\\layout\\search_fragment.xml"
+    },
+    {
+        "merged": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_gridview.xml",
+        "source": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\src\\main\\res\\layout\\item_gridview.xml"
+    },
+    {
+        "merged": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\build\\intermediates\\res\\merged\\debug\\layout\\img_item_view_flow.xml",
+        "source": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\src\\main\\res\\layout\\img_item_view_flow.xml"
+    },
+    {
+        "merged": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_listview_shop.xml",
+        "source": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\src\\main\\res\\layout\\item_listview_shop.xml"
+    },
+    {
+        "merged": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\build\\intermediates\\res\\merged\\debug\\layout\\shop_fragment.xml",
+        "source": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\src\\main\\res\\layout\\shop_fragment.xml"
+    },
+    {
+        "merged": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sort_fragment.xml",
+        "source": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\src\\main\\res\\layout\\sort_fragment.xml"
+    },
+    {
+        "merged": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\build\\intermediates\\res\\merged\\debug\\layout\\shop_detail.xml",
+        "source": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\src\\main\\res\\layout\\shop_detail.xml"
+    },
+    {
+        "merged": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\build\\intermediates\\res\\merged\\debug\\layout\\welcome.xml",
+        "source": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\src\\main\\res\\layout\\welcome.xml"
+    },
+    {
+        "merged": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\build\\intermediates\\res\\merged\\debug\\layout\\add_shop.xml",
+        "source": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\src\\main\\res\\layout\\add_shop.xml"
+    },
+    {
+        "merged": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\build\\intermediates\\res\\merged\\debug\\layout\\shop_list.xml",
+        "source": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\src\\main\\res\\layout\\shop_list.xml"
+    },
+    {
+        "merged": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\build\\intermediates\\res\\merged\\debug\\layout\\img_view_flow.xml",
+        "source": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\src\\main\\res\\layout\\img_view_flow.xml"
+    }
+]

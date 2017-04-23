@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <EditText
+        android:id="@+id/add_shop_id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:hint="请填写店铺ID" />
+    
+    <EditText
+        android:id="@+id/add_shop_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="请填写店铺名称" />
+
+    <EditText
+        android:id="@+id/add_shop_address"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="请填写店铺地址" />
+
+    <EditText
+        android:id="@+id/add_shop_tel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="请填写店铺电话"
+        android:inputType="number" />
+
+    <EditText
+        android:id="@+id/add_shop_img_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="请填写店铺图片" />
+
+    <Button
+        android:id="@+id/add_btnOK"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="确定" />
+
+    <Button
+        android:id="@+id/add_btnBack"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="back"
+        android:text="返回" />
+
+</LinearLayout>

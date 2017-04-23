@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\build\\intermediates\\res\\merged\\debug\\menu\\shop_manager.xml",
+        "source": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\src\\main\\res\\menu\\shop_manager.xml"
+    },
+    {
+        "merged": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]

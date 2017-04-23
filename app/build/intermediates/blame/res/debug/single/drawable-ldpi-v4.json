@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\store_04.jpg",
+        "source": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\src\\main\\res\\drawable-ldpi\\store_04.jpg"
+    },
+    {
+        "merged": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\store_01.jpg",
+        "source": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\src\\main\\res\\drawable-ldpi\\store_01.jpg"
+    },
+    {
+        "merged": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\coffee1.jpg",
+        "source": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\src\\main\\res\\drawable-ldpi\\coffee1.jpg"
+    },
+    {
+        "merged": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\coffee4.jpg",
+        "source": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\src\\main\\res\\drawable-ldpi\\coffee4.jpg"
+    },
+    {
+        "merged": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\coffee2.jpg",
+        "source": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\src\\main\\res\\drawable-ldpi\\coffee2.jpg"
+    },
+    {
+        "merged": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\store_05.jpg",
+        "source": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\src\\main\\res\\drawable-ldpi\\store_05.jpg"
+    },
+    {
+        "merged": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\store_02.jpg",
+        "source": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\src\\main\\res\\drawable-ldpi\\store_02.jpg"
+    },
+    {
+        "merged": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\store_03.jpg",
+        "source": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\src\\main\\res\\drawable-ldpi\\store_03.jpg"
+    },
+    {
+        "merged": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\coffee3.jpg",
+        "source": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\src\\main\\res\\drawable-ldpi\\coffee3.jpg"
+    }
+]

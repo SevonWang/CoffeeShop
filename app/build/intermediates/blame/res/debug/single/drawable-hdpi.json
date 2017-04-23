@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\action_search.png",
+        "source": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\src\\main\\res\\drawable-hdpi\\action_search.png"
+    },
+    {
+        "merged": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\action_more.png",
+        "source": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\src\\main\\res\\drawable-hdpi\\action_more.png"
+    }
+]

@@ -1,0 +1,12 @@
+<resources>
+
+    <color name="tab_textcolor_checked">#FFFFFF</color>
+    <color name="tab_textcolor_unchecked">#C0C0C0</color>
+    <color name="page_backgroud">#FFFFFF</color>
+    <color name="form_background">#E5E5E5</color>
+    <color name="input_context">#AAAAAA</color>
+    
+    <color name="login_button">#5D1012</color>
+    <color name="login_button_focus">#B01E23</color>
+
+</resources>

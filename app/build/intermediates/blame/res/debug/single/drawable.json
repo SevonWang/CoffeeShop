@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_textcolor_selector.xml",
+        "source": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\src\\main\\res\\drawable\\tab_textcolor_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_button_selector.xml",
+        "source": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\src\\main\\res\\drawable\\login_button_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\me_selector.xml",
+        "source": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\src\\main\\res\\drawable\\me_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\username_bg_shape_normal.xml",
+        "source": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\src\\main\\res\\drawable\\username_bg_shape_normal.xml"
+    },
+    {
+        "merged": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shop_selector.xml",
+        "source": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\src\\main\\res\\drawable\\shop_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_selector.xml",
+        "source": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\src\\main\\res\\drawable\\home_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_selector.xml",
+        "source": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\src\\main\\res\\drawable\\login_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search_selector.xml",
+        "source": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\src\\main\\res\\drawable\\search_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\username_bg_shape_focus.xml",
+        "source": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\src\\main\\res\\drawable\\username_bg_shape_focus.xml"
+    },
+    {
+        "merged": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sort_selector.xml",
+        "source": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\src\\main\\res\\drawable\\sort_selector.xml"
+    }
+]

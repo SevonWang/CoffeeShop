@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">咖啡在线</string>
+    <string name="home">首页-咖啡在线</string>
+    <string name="detail">首页-爱上咖啡，从这里开始</string>
+    <string name="shop">所有店铺</string>
+    <string name="shopDetail">咖啡店铺信息</string>
+    <string name="shopUpdate">修改店铺信息</string>
+    <string name="shopAdd">添加店铺信息</string>
+    
+    <string name="store">店铺</string>
+    <string name="rmd_goods">推荐商品</string>
+    <string name="discount_goods">打折产品</string>
+    <string name="popular_goods">热销产品</string>
+    
+    <string name="login_register_system">欢迎来到在线咖啡销售系统</string>
+
+    <string name="hint_username">请输入用户名</string>
+    <string name="hint_password">请输入密码</string>
+    
+    <string name="forget_password">忘记密码</string>
+    <string name="new_user">注册新用户</string>
+</resources>

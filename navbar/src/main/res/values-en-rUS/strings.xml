@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CoffeeShop</string>
+
+    <string name="home">Home</string>
+    <string name="category">Category</string>
+    <string name="shopcart">ShopCart</string>
+    <string name="search">Search</string>
+    <string name="me">Me</string>
+
+</resources>

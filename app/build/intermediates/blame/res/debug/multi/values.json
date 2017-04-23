@@ -1,0 +1,545 @@
+[
+    {
+        "outputFile": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 49,
+                    "endOffset": 100
+                },
+                "from": {
+                    "file": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 185,
+                        "endColumn": 49,
+                        "endOffset": 230
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 47,
+                    "endOffset": 148
+                },
+                "from": {
+                    "file": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 236,
+                        "endColumn": 47,
+                        "endOffset": 279
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 153,
+                    "endColumn": 46,
+                    "endOffset": 195
+                },
+                "from": {
+                    "file": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 291,
+                        "endColumn": 46,
+                        "endOffset": 333
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 200,
+                    "endColumn": 52,
+                    "endOffset": 248
+                },
+                "from": {
+                    "file": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 339,
+                        "endColumn": 52,
+                        "endOffset": 387
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 253,
+                    "endColumn": 48,
+                    "endOffset": 297
+                },
+                "from": {
+                    "file": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 135,
+                        "endColumn": 48,
+                        "endOffset": 179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 302,
+                    "endColumn": 55,
+                    "endOffset": 353
+                },
+                "from": {
+                    "file": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 55,
+                        "endOffset": 70
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 358,
+                    "endColumn": 57,
+                    "endOffset": 411
+                },
+                "from": {
+                    "file": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 76,
+                        "endColumn": 57,
+                        "endOffset": 129
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1142,
+                    "endColumn": 57,
+                    "endOffset": 1195
+                },
+                "from": {
+                    "file": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1200,
+                    "endColumn": 55,
+                    "endOffset": 1251
+                },
+                "from": {
+                    "file": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1256,
+                    "endColumn": 41,
+                    "endOffset": 1293
+                },
+                "from": {
+                    "file": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 41,
+                        "endOffset": 93
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1298,
+                    "endColumn": 48,
+                    "endOffset": 1342
+                },
+                "from": {
+                    "file": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 139,
+                        "endColumn": 48,
+                        "endOffset": 183
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1347,
+                    "endColumn": 47,
+                    "endOffset": 1390
+                },
+                "from": {
+                    "file": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 446,
+                        "endColumn": 47,
+                        "endOffset": 489
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1395,
+                    "endColumn": 48,
+                    "endOffset": 1439
+                },
+                "from": {
+                    "file": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 712,
+                        "endColumn": 48,
+                        "endOffset": 756
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1444,
+                    "endColumn": 47,
+                    "endOffset": 1487
+                },
+                "from": {
+                    "file": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 659,
+                        "endColumn": 47,
+                        "endOffset": 702
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1492,
+                    "endColumn": 48,
+                    "endOffset": 1536
+                },
+                "from": {
+                    "file": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 610,
+                        "endColumn": 48,
+                        "endOffset": 654
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1541,
+                    "endColumn": 40,
+                    "endOffset": 1577
+                },
+                "from": {
+                    "file": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 98,
+                        "endColumn": 40,
+                        "endOffset": 134
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1582,
+                    "endColumn": 62,
+                    "endOffset": 1640
+                },
+                "from": {
+                    "file": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 546,
+                        "endColumn": 62,
+                        "endOffset": 604
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1645,
+                    "endColumn": 42,
+                    "endOffset": 1683
+                },
+                "from": {
+                    "file": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 761,
+                        "endColumn": 42,
+                        "endOffset": 799
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1688,
+                    "endColumn": 46,
+                    "endOffset": 1730
+                },
+                "from": {
+                    "file": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 494,
+                        "endColumn": 46,
+                        "endOffset": 536
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1735,
+                    "endColumn": 42,
+                    "endOffset": 1773
+                },
+                "from": {
+                    "file": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 403,
+                        "endColumn": 42,
+                        "endOffset": 441
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1778,
+                    "endColumn": 37,
+                    "endOffset": 1811
+                },
+                "from": {
+                    "file": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 188,
+                        "endColumn": 37,
+                        "endOffset": 221
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1816,
+                    "endColumn": 42,
+                    "endOffset": 1854
+                },
+                "from": {
+                    "file": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 318,
+                        "endColumn": 42,
+                        "endOffset": 356
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1859,
+                    "endColumn": 45,
+                    "endOffset": 1900
+                },
+                "from": {
+                    "file": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 226,
+                        "endColumn": 45,
+                        "endOffset": 267
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1905,
+                    "endColumn": 45,
+                    "endOffset": 1946
+                },
+                "from": {
+                    "file": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 272,
+                        "endColumn": 45,
+                        "endOffset": 313
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1951,
+                    "endColumn": 36,
+                    "endOffset": 1983
+                },
+                "from": {
+                    "file": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 366,
+                        "endColumn": 36,
+                        "endOffset": 398
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1988,
+                    "endLine": 42,
+                    "endColumn": 12,
+                    "endOffset": 2275
+                },
+                "from": {
+                    "file": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 192,
+                        "endLine": 14,
+                        "endColumn": 12,
+                        "endOffset": 483
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2280,
+                    "endLine": 45,
+                    "endColumn": 12,
+                    "endOffset": 2435
+                },
+                "from": {
+                    "file": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 524,
+                        "endLine": 19,
+                        "endColumn": 12,
+                        "endOffset": 681
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 2440,
+                    "endLine": 57,
+                    "endColumn": 12,
+                    "endOffset": 3067
+                },
+                "from": {
+                    "file": "D:\\Android-Tools\\Android-Project\\CoffeeShop\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 689,
+                        "endLine": 32,
+                        "endColumn": 12,
+                        "endOffset": 1327
+                    }
+                }
+            }
+        ]
+    }
+]

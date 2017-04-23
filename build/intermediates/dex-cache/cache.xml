@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Android-Tools\Android-Project\CoffeeShop\coffee_viewpager\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\Android-Tools\Android-Project\CoffeeShop\coffee_viewpager\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_2641f383d857b13d7f3d2f3ca1cd0ae87122c0c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android-Tools\Android-Project\CoffeeShop\coffee_viewpager\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Android-Tools\Android-Project\CoffeeShop\coffee_viewpager\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_6c47b0ade9a1c02390967196a7048adbc74bbe90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android-Tools\Android-Project\CoffeeShop\coffee_viewpager\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\Android-Tools\Android-Project\CoffeeShop\coffee_viewpager\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_cf51314cabc87f8b411619d0764bf0dd9253c20d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android-Tools\Android-Project\CoffeeShop\coffee_viewpager\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\Android-Tools\Android-Project\CoffeeShop\coffee_viewpager\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_40b80c1e15a634d16edbfa77270c523943837dee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android-Tools\Android-Project\CoffeeShop\coffee_viewpager\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\Android-Tools\Android-Project\CoffeeShop\coffee_viewpager\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_3c8f710ce511eae7d61987cb5bd795a465e08760.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android-Tools\Android-Project\CoffeeShop\coffee_viewpager\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\Android-Tools\Android-Project\CoffeeShop\coffee_viewpager\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.0.2_662c21482e2f9e1106c6e81e0fbacb808d7c3e34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android-Tools\Android-Project\CoffeeShop\coffee_viewpager\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\Android-Tools\Android-Project\CoffeeShop\coffee_viewpager\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_64414b3339872b3d49b4d714bb34ccee9a66429e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android-Tools\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\Android-Tools\Android-Project\CoffeeShop\coffee_viewpager\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_278b6cd917b75afc7d3081e0d046483960ab9a56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android-Tools\Android-Project\CoffeeShop\coffee_viewpager\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\Android-Tools\Android-Project\CoffeeShop\coffee_viewpager\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_226006318ce43327b5160d129aa47eb1b37a7ee7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android-Tools\Android-Project\CoffeeShop\coffee_viewpager\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\Android-Tools\Android-Project\CoffeeShop\coffee_viewpager\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_d81b3ea7f79ddc86f2fc0206209e7b9006c13cb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android-Tools\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\Android-Tools\Android-Project\CoffeeShop\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_b90696f2e1ee5c9e4c5ce3b19f8fb90b6825d609.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android-Tools\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\Android-Tools\Android-Project\CoffeeShop\coffee_viewpager\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_3cb43e6c7b2398ae297beb03ce87786dacf66946.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android-Tools\Android-Project\CoffeeShop\coffee_viewpager\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\Android-Tools\Android-Project\CoffeeShop\coffee_viewpager\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_17e6be14b821d809b8db955f029ecacd765bf80a.jar" />
+    </item>
+
+</items>

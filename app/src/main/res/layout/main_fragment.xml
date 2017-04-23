@@ -1,0 +1,54 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/main_viewPager"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <RadioGroup
+        android:id="@+id/main_tab_radioGroup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:background="@drawable/maintab_toolbar_bg"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <RadioButton
+            android:id="@+id/radio_home"
+            style="@style/main_tab"
+            android:checked="true"
+            android:drawableTop="@drawable/home_selector"
+            android:text="首页" />
+
+        <RadioButton
+            android:id="@+id/radio_shop"
+            style="@style/main_tab"
+            android:drawableTop="@drawable/shop_selector"
+            android:text="购物车" />
+
+        <RadioButton
+            android:id="@+id/radio_sort"
+            style="@style/main_tab"
+            android:drawableTop="@drawable/sort_selector"
+            android:text="分类" />
+
+        <RadioButton
+            android:id="@+id/radio_search"
+            style="@style/main_tab"
+            android:drawableTop="@drawable/search_selector"
+            android:text="搜索" />
+
+        <RadioButton
+            android:id="@+id/radio_me"
+            style="@style/main_tab"
+            android:drawableTop="@drawable/me_selector"
+            android:text="我的" />
+    </RadioGroup>
+
+</LinearLayout>
